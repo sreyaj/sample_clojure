@@ -15,5 +15,5 @@ script:
   - lein test2junit
 # include
 branches:
-only:
- slave1
+    only:
+  - slave1
