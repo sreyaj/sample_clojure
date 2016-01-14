@@ -16,4 +16,4 @@ script:
 # include
 branches:
     only:
-    - slave2
+    - master
