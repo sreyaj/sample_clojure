@@ -16,4 +16,4 @@ script:
 # include
 branches:
     only:
-    -slave1
+    - slave1
