@@ -13,3 +13,7 @@ before_script:
 script:
   - cd sample
   - lein test2junit
+# include
+branches:
+only:
+ slave1
