@@ -17,4 +17,8 @@ script:
 branches:
 only:
  slave1
-cache: true 
+notifications:
+  email:
+    recipients:
+      - sreyaj10@gmail.com
+      - sreya@shippable.com
