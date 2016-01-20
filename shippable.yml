@@ -17,4 +17,4 @@ script:
 branches:
 only:
  slave1
-cache: true
+cache: true 
